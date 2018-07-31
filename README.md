@@ -16,7 +16,7 @@ Open `lab1.html` in your browser. Take a look at it, before you make all your ch
 
 ## 3. Style the header
 
-- In `lab1_styles.css`, give the header class a bottom border of 1 point solid gray.
+- In `lab1_styles.css`, give the header class a bottom border of 5 pixel solid gray.
 - Give it an all-around padding of 10px.
 
 ## 4. Style the sidebar
